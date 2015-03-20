@@ -112,7 +112,7 @@ img.grayscale {
 
 .header {
   height: 80%;
-  background: #fff url('D:/github/sixify.github.io/img/bg.png') repeat center center fixed;
+  background: #fff url('img/bg.png') repeat center center fixed;
 }
 
 /* use alt in navbar and header for different color */
