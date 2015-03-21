@@ -1,1 +1,1 @@
-["data/sixify_geomean_btcusd.txt"]
+["data/sixify_aggregation_btcusd.json", "data/sixify_btce_btcusd.json", "data/sixify_cexio_btcusd.json", "data/sixify_bitstamp_btcusd.json"]
